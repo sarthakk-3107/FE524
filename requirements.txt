@@ -1,0 +1,13 @@
+streamlit
+openai
+chromadb
+rank-bm25
+numpy
+beautifulsoup4
+lxml
+sec-edgar-downloader
+python-dotenv
+pandas
+plotly
+reportlab
+markdown
